@@ -1,0 +1,309 @@
+SCR_AIGroup : "{3D4D53B053964445}Prefabs/Groups/BLUFOR/Standard/Command/CRF_BLUFOR_Platoon_p.et" {
+ coords 3712.645 110.802 2417.807
+ {
+  $grp SCR_AIGroup : "{9C45BAF40F909576}Prefabs/Groups/BLUFOR/Standard/Infantry/CRF_BLUFOR_RifleSquad_p.et" {
+   {
+    coords -23.266 0.207 -40.718
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -3.101 0.212 -13.614
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -2.548 0.986 -34.623
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -7.287 0.856 -40.473
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -24.386 -0.078 -23.644
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -29.124 -0.041 -29.494
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -20.164 -0.096 -18.15
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -34.694 -0.023 -35.784
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -12.958 0.219 -28.578
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -17.697 0.184 -34.428
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -8.737 0.228 -23.083
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+   {
+    coords -14.527 -0.191 -8.681
+    m_aUnitPrefabSlots {
+     "{CC8EDD051CB0C1CE}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_SL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{1E08ED0385C765CC}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_TL_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et" "{6F99DE8453E6B423}Prefabs/Characters/Factions/BLUFOR/CRF_GS_BLUFOR_Rifleman_P.et"
+    }
+    m_aUnitPrefabColorTeams {
+     "Red" "Red" "Red" "Red" "Green" "Green" "Green" "Green"
+    }
+   }
+  }
+ }
+}
+$grp Vehicle : "{691223CB63E03573}Prefabs/Vehicles/Wheeled/S105/S105_police.et" {
+ S105_police8 {
+  coords 3690.366 110.337 2418.594
+  angleY 31.364
+ }
+ S105_police1 {
+  coords 3665.946 109.422 2433.479
+  angleY 31.364
+ }
+ S105_police4 {
+  coords 3675.282 109.77 2427.788
+  angleY 31.364
+ }
+ S105_police2 {
+  coords 3669.016 109.544 2431.608
+  angleY 31.364
+ }
+ S105_police3 {
+  coords 3671.928 109.661 2429.833
+  angleY 31.364
+ }
+ S105_police5 {
+  coords 3679.194 109.822 2425.404
+  angleY 31.364
+ }
+ S105_police6 {
+  coords 3682.908 109.929 2423.14
+  angleY 31.364
+ }
+ S105_police7 {
+  coords 3686.71 110.12 2420.823
+  angleY 31.364
+ }
+ S105_police9 {
+  coords 3686.225 110.347 2411.8
+  angleY 31.364
+ }
+ S105_police10 {
+  coords 3661.805 109.483 2426.687
+  angleY 31.364
+ }
+ S105_police11 {
+  coords 3671.141 109.799 2420.994
+  angleY 31.364
+ }
+ S105_police12 {
+  coords 3664.875 109.613 2424.814
+  angleY 31.364
+ }
+ S105_police13 {
+  coords 3667.787 109.711 2423.039
+  angleY 31.364
+ }
+ S105_police14 {
+  coords 3675.053 109.86 2418.61
+  angleY 31.364
+ }
+ S105_police15 {
+  coords 3678.767 109.987 2416.346
+  angleY 31.364
+ }
+ S105_police16 {
+  coords 3682.569 110.183 2414.029
+  angleY 31.364
+ }
+ S105_police17 {
+  coords 3681.919 110.329 2404.737
+  angleY 31.364
+ }
+ S105_police18 {
+  coords 3657.5 109.552 2419.623
+  angleY 31.364
+ }
+ S105_police19 {
+  coords 3666.836 109.746 2413.931
+  angleY 31.364
+ }
+ S105_police20 {
+  coords 3660.57 109.602 2417.751
+  angleY 31.364
+ }
+ S105_police21 {
+  coords 3663.482 109.625 2415.976
+  angleY 31.364
+ }
+ S105_police22 {
+  coords 3670.748 109.901 2411.547
+  angleY 31.364
+ }
+ S105_police23 {
+  coords 3674.462 110.029 2409.283
+  angleY 31.364
+ }
+ S105_police24 {
+  coords 3678.264 110.193 2406.966
+  angleY 31.364
+ }
+ S105_police25 {
+  coords 3677.805 110.4 2397.988
+  angleY 31.364
+ }
+ S105_police26 {
+  coords 3653.386 109.585 2412.874
+  angleY 31.364
+ }
+ S105_police27 {
+  coords 3662.722 109.816 2407.182
+  angleY 31.364
+ }
+ S105_police28 {
+  coords 3656.456 109.632 2411.002
+  angleY 31.364
+ }
+ S105_police29 {
+  coords 3659.368 109.69 2409.227
+  angleY 31.364
+ }
+ S105_police30 {
+  coords 3666.634 109.954 2404.798
+  angleY 31.364
+ }
+ S105_police31 {
+  coords 3670.348 110.096 2402.534
+  angleY 31.364
+ }
+ S105_police32 {
+  coords 3674.15 110.251 2400.217
+  angleY 31.364
+ }
+ S105_police33 {
+  coords 3674.046 110.443 2391.821
+  angleY 31.364
+ }
+ S105_police34 {
+  coords 3649.627 109.619 2406.707
+  angleY 31.364
+ }
+ S105_police35 {
+  coords 3658.963 109.858 2401.015
+  angleY 31.364
+ }
+ S105_police36 {
+  coords 3652.698 109.674 2404.835
+  angleY 31.364
+ }
+ S105_police37 {
+  coords 3655.609 109.742 2403.06
+  angleY 31.364
+ }
+ S105_police38 {
+  coords 3662.875 110.018 2398.631
+  angleY 31.364
+ }
+ S105_police39 {
+  coords 3666.589 110.163 2396.367
+  angleY 31.364
+ }
+ S105_police40 {
+  coords 3670.391 110.317 2394.05
+  angleY 31.364
+ }
+ S105_police41 {
+  coords 3670.197 110.513 2385.504
+  angleY 31.364
+ }
+ S105_police42 {
+  coords 3645.777 109.65 2400.39
+  angleY 31.364
+ }
+ S105_police43 {
+  coords 3655.112 109.93 2394.698
+  angleY 31.364
+ }
+ S105_police44 {
+  coords 3648.847 109.703 2398.518
+  angleY 31.364
+ }
+ S105_police45 {
+  coords 3651.759 109.793 2396.743
+  angleY 31.364
+ }
+ S105_police46 {
+  coords 3659.024 110.095 2392.314
+  angleY 31.364
+ }
+ S105_police47 {
+  coords 3662.739 110.229 2390.05
+  angleY 31.364
+ }
+ S105_police48 {
+  coords 3666.541 110.365 2387.733
+  angleY 31.364
+ }
+}

@@ -1,0 +1,72 @@
+SCR_AIWorld : "{998834C2F010C11A}Prefabs/AI/SCR_AIWorld_Rostov.et" {
+ coords 3829.806 112.617 2464.024
+}
+CRF_Gamemode CRF_Lobby1 : "{6A996BBFCEB37E78}Prefabs/MP/Modes/Lobby/CRF_Lobby.et" {
+ components {
+  SCR_InitWeatherComponent "{64427EEC0AFF43EE}" {
+   m_sInitialStartingWeatherId "stormy"
+   m_iSetWeatherConstant 1
+  }
+  SCR_TimeAndWeatherHandlerComponent "{64427EEC304DD9A0}" {
+   m_iStartingHours 21
+   m_iRangeHoursStart 0
+  }
+ }
+ coords 4363.072 124.764 2530.325
+ m_iTimeLimitMinutes 15
+ m_iFactionOneRatio 2
+ m_sFactionOneKey "BLU"
+ m_sFactionTwoKey "IND"
+ m_BLUFORGearScriptSettings CRF_GearScriptContainer "{64570ACB9B419A7B}" {
+  m_rGearScript "{FA37429C81316EB4}Configs/Gearscripts/Custom/RandAlThor/CRF_GS_ArmedPolice.conf"
+ }
+ {
+  SCR_FactionManager "650F700354D249E1" {
+   ID "632A77473B3CC3A8"
+   Factions {
+    SCR_Faction "{628B22E9B4056C88}" {
+     m_CallsignInfo SCR_FactionCallsignInfo "{5DA0F2A6677ADA9E}" {
+      m_aSquadNames {
+       SCR_CallsignInfo "{55CCB792D13759D8}" {
+        m_sCallsign "Squad 1"
+       }
+       SCR_CallsignInfo "{55CCB792D1218E95}" {
+        m_sCallsign "Squad 2"
+       }
+       SCR_CallsignInfo "{55CCB792D0C8B3CE}" {
+        m_sCallsign "Squad 3"
+       }
+       SCR_CallsignInfo "{650F7004F32F5469}" {
+        m_sCallsign "Squad 4"
+       }
+       SCR_CallsignInfo "{650F7004F367E630}" {
+        m_sCallsign "Squad 5"
+       }
+       SCR_CallsignInfo "{650F7004F3981D4F}" {
+        m_sCallsign "Squad 6"
+       }
+       SCR_CallsignInfo "{650F7004F3A3C265}" {
+        m_sCallsign "Squad 7"
+       }
+       SCR_CallsignInfo "{650F7004F3CEC330}" {
+        m_sCallsign "Squad 8"
+       }
+       SCR_CallsignInfo "{650F7004F3EA38C9}" {
+        m_sCallsign "Squad 9"
+       }
+       SCR_CallsignInfo "{650F7004FC03650B}" {
+        m_sCallsign "Squad 10"
+       }
+       SCR_CallsignInfo "{650F7004E2F03717}" {
+        m_sCallsign "Squad 11"
+       }
+       SCR_CallsignInfo "{650F7004E339F9E9}" {
+        m_sCallsign "Squad 12"
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}
