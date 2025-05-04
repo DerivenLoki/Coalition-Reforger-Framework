@@ -124,7 +124,7 @@ class CRF_RplBroadcastManager : ScriptComponent
 	}
 
 	//------------------------------------------------------------------------------------------------
-	void InitilizePlayer(int playerId)
+	void InitilizePlayerBroadcast(int playerId)
 	{
 		#ifdef WORKBENCH
 		RpcDo_InitilizePlayerBroadcast(playerId);

@@ -199,7 +199,12 @@ class CRF_Gamemode : SCR_BaseGameMode
 	void AdvanceSlottingState()
 	{
 		m_SlottingState += 1;
-		m_SlottingManager.RequestSlottingUpdate();
+		
+		map<int, CRF_SlotDataContainer> slottingMap = m_SlottingManager.GetSlotMap();
+		
+		if (!slottingMap.IsEmpty())
+			m_SlottingManager.RequestSlottingUpdate(1, slottingMap.Get(1));
+		
 		Replication.BumpMe();
 	}
 

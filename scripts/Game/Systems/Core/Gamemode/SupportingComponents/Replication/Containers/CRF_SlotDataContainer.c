@@ -206,7 +206,7 @@ class CRF_SlotDataContainer
 	//------------------------------------------------------------------------------------------------
 	
 	//------------------------------------------------------------------------------------------------
-	bool RplSave(ScriptBitWriter writer)
+	void Save(ScriptBitWriter writer)
 	{
 		writer.WriteVector(m_vSlotVectorOne);
 		writer.WriteVector(m_vSlotVectorTwo);
@@ -225,12 +225,10 @@ class CRF_SlotDataContainer
 		
 		writer.WriteBool(m_bIsLockedSlot);
 		writer.WriteBool(m_bIsDeadSlot);
-		
-		return true;
 	}
 	
 	//------------------------------------------------------------------------------------------------
-	bool RplLoad(ScriptBitReader reader)
+	void Load(ScriptBitReader reader)
 	{
 		reader.ReadVector(m_vSlotVectorOne);
 		reader.ReadVector(m_vSlotVectorTwo);
@@ -249,8 +247,6 @@ class CRF_SlotDataContainer
 		
 		reader.ReadBool(m_bIsLockedSlot);
 		reader.ReadBool(m_bIsDeadSlot);
-		
-		return true;
 	}
 	
 	//------------------------------------------------------------------------------------------------

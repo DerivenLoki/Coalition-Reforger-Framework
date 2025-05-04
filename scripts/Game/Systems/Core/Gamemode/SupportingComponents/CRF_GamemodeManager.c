@@ -115,7 +115,7 @@ class CRF_GamemodeManager : SCR_BaseGameModeComponent
 			SCR_PlayerControllerGroupComponent.GetPlayerControllerComponent(playerId).RequestJoinGroup(groupId);
 		}
 
-		m_RplBroadcastManager.InitilizePlayer(playerId);
+		m_RplBroadcastManager.InitilizePlayerBroadcast(playerId);
 	}
 	
 	//------------------------------------------------------------------------------------------------
