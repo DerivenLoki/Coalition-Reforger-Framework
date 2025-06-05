@@ -8,6 +8,7 @@ modded class SCR_AIGroup
 	
 	protected bool m_bIsPlayableGroup;
 	protected SCR_AIGroup m_NewGroup;
+	protected CRF_3DMarker m_Marker;
 	
 	//------------------------------------------------------------------------------------------------
 	//! Called when the entity is initialized
@@ -127,6 +128,9 @@ modded class SCR_AIGroup
 			{
 				SCR_GroupsManagerComponent groupsManager = SCR_GroupsManagerComponent.GetInstance();
 				groupsManager.SetGroupLeader(GetGroupID(), playerID);
+				
+				// Create 3d marker above their head
+				m_Marker.DisplayStartDraw(player);
 			}
 		}
 	}
